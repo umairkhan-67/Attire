@@ -1,0 +1,23 @@
+.product {
+background-color: white;
+    width: 300px;
+    margin: 15px;
+}
+
+.product img {
+    height: 210px;
+    width: 190px;
+   
+    
+}
+.container {
+    background-color: whitesmoke;
+    
+}
+/* .body {
+    background-color: whitesmoke;
+} */
+
+.container h1 span {
+    font-size: 70px;
+}

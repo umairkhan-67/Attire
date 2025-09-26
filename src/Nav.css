@@ -1,0 +1,17 @@
+.navbar-dark-custom {
+  background-color: black;
+}
+
+.navbar-dark-custom .nav-link,
+.navbar-dark-custom .navbar-brand {
+  color: white;
+}
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+ height: 60px;
+  z-index: 1000; /* ensures it stays above other elements */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* optional: adds a subtle shadow */
+}
