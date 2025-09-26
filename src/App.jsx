@@ -10,6 +10,7 @@ import About from './About'; // Import the new About page
 function App() {
   const [search, setSearch] = useState("");
 
+  // state
   return (
     <>
       <Navbar search={search} setSearch={setSearch} />
